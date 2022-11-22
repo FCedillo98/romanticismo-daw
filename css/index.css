@@ -124,8 +124,8 @@ body {
 /*****************   MEDIA QUERIES **************************************************************/
 
 @media only screen and (width<=900px){/*todas las excepciones para móvil*/
-    #hero3 {width: 90%;} /* se aprovecha más el ancho*/
-    #titulo3 {
+    #hero {width: 90%;} /* se aprovecha más el ancho*/
+    #titulo {
               width: 60%;
               left:20%;
              } /* se corrige el zoom de la foto*/
@@ -136,8 +136,8 @@ body {
 }
 
 @media only screen and (width<=600px){/*todas las excepciones para móvil*/
-         #hero3 {width: 100%;} /* se aprovecha más el ancho*/
-        #titulo3 {
+         #hero {width: 100%;} /* se aprovecha más el ancho*/
+        #titulo {
                   width: 80%;
                   left:10%
                  }
